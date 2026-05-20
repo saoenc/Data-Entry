@@ -1,0 +1,162 @@
+TICKET: SUP-5501
+CUSTOMER: Maria Rodriguez
+DATE: 2026-03-20
+CATEGORY: Refund Request
+SEVERITY: High
+ISSUE: Order NX-88293 not delivered after 2 weeks. Customer demanding full refund.
+STATUS: Open
+ASSIGNED: Sarah Chen
+
+---
+
+TICKET: SUP-5502
+CUSTOMER: Sarah K
+DATE: 2026-04-05
+CATEGORY: Wrong Item
+SEVERITY: Medium
+ISSUE: Customer received red headphones instead of blue. Wants exchange.
+STATUS: Resolved
+ASSIGNED: Mike Torres
+
+---
+
+TICKET: SUP-5503
+CUSTOMER: Isabella Rossi
+DATE: 2026-04-09
+CATEGORY: Delivery Delay
+SEVERITY: Low
+ISSUE: Tracking shows pending for 3 days. Customer inquiring about status.
+STATUS: Closed
+ASSIGNED: James Park
+
+---
+
+TICKET: SUP-5504
+CUSTOMER: Yuki Tanaka
+DATE: 2026-04-24
+CATEGORY: Cancellation
+SEVERITY: Low
+ISSUE: Customer wants to cancel order NX-88307. Already shipped.
+STATUS: Closed
+ASSIGNED: Sarah Chen
+
+---
+
+TICKET: SUP-5505
+CUSTOMER: Fatima Abbas
+DATE: 2026-05-09
+CATEGORY: Damaged Goods
+SEVERITY: High
+ISSUE: Tablet arrived with cracked screen. Requesting immediate replacement.
+STATUS: Open
+ASSIGNED: Mike Torres
+
+---
+
+TICKET: SUP-5506
+CUSTOMER: David Kim
+DATE: 2026-04-05
+CATEGORY: Missing Package
+SEVERITY: Medium
+ISSUE: System shows delivered but customer claims not received. Checking with courier.
+STATUS: Investigating
+ASSIGNED: James Park
+
+---
+
+TICKET: SUP-5507
+CUSTOMER: Hans Mueller
+DATE: 2026-04-28
+CATEGORY: Billing Error
+SEVERITY: Medium
+ISSUE: Invoice shows 79,000 but should be 69,000. Needs correction.
+STATUS: Open
+ASSIGNED: (unassigned)
+
+---
+
+TICKET: SUP-5508
+CUSTOMER: Ana Silva
+DATE: 2026-04-20
+CATEGORY: Faulty Product
+SEVERITY: Medium
+ISSUE: Fitness tracker won't sync with phone. Already tried resetting.
+STATUS: Resolved
+ASSIGNED: Mike Torres
+
+---
+
+TICKET: SUP-5509
+CUSTOMER: Carlos Lopez
+DATE: 2026-04-15
+CATEGORY: Quality Issue
+SEVERITY: Low
+ISSUE: Wireless mouse left click not working properly. Requesting exchange.
+STATUS: Pending
+ASSIGNED: Sarah Chen
+
+---
+
+TICKET: SUP-5510
+CUSTOMER: Jennifer Lee
+DATE: 2026-03-18
+CATEGORY: (missing)
+SEVERITY: Medium
+ISSUE: Inquiring about order confirmation. No email received after 5 days.
+STATUS: Closed
+ASSIGNED: James Park
+
+---
+
+TICKET: SUP-5511
+CUSTOMER: William Jackson
+DATE: 2026-04-17
+CATEGORY: Address Change
+SEVERITY: High
+ISSUE: URGENT delivery address change for order NX-88306.
+STATUS: Resolved
+ASSIGNED: Sarah Chen
+
+---
+
+TICKET: SUP-5512
+CUSTOMER: Linh Nguyen
+DATE: 2026-04-13
+CATEGORY: Order Confirmation
+SEVERITY: Low
+ISSUE: Sent order via WhatsApp, no response received.
+STATUS: Closed
+ASSIGNED: Mike Torres
+
+---
+
+TICKET: SUP-5513
+CUSTOMER: Emma Thompson
+DATE: 2026-03-29
+CATEGORY: Product Inquiry
+SEVERITY: Low
+ISSUE: Asking about return policy for noise canceling headphones.
+STATUS: Closed
+ASSIGNED: James Park
+
+---
+
+TICKET: SUP-5514
+CUSTOMER: Robert Chen (TechStart Inc)
+DATE: 2026-03-17
+CATEGORY: Bulk Order
+SEVERITY: Medium
+ISSUE: Requesting NET30 payment terms for corporate order.
+STATUS: Pending Approval
+ASSIGNED: (unassigned)
+
+---
+
+TICKET: SUP-5515
+CUSTOMER: Marcus Thompson
+DATE: 2026-03-12
+CATEGORY: Same Day Delivery
+SEVERITY: High
+ISSUE: Customer needs 2 laptops delivered same day. Confirmed by 5pm delivery.
+STATUS: Resolved
+ASSIGNED: Sarah Chen

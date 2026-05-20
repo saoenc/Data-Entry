@@ -1,0 +1,158 @@
+[2026-03-12 09:23] Customer - Marcus: yo u guys deliver same day?
+[2026-03-12 09:25] Support - James: depends on location. where r u?
+[2026-03-12 09:26] Customer - Marcus: downtown area. need 2 laptops asap
+[2026-03-12 09:28] Support - James: can do by 5pm. which models?
+[2026-03-12 09:30] Customer - Marcus: the HP ones. around 80k each
+
+---
+
+[2026-03-15 14:15] Customer - Christina: hi! do u have wireless earbuds in stock?
+[2026-03-15 14:17] Support - Sarah: yes! multiple brands. budget?
+[2026-03-15 14:18] Customer - Christina: under 30k. need good quality
+[2026-03-15 14:20] Support - Sarah: i recommend the sonic buds. 25k
+[2026-03-15 14:22] Customer - Christina: ok cool. send me payment link
+
+---
+
+[2026-03-18 11:40] Customer - Diego: boss how much for smart watch?
+[2026-03-18 11:42] Support - Mike: which brand u want?
+[2026-03-18 11:43] Customer - Diego: any1 with fitness tracking. not too expensive
+[2026-03-18 11:45] Support - Mike: we have 1 for 45k. very good
+[2026-03-18 11:46] Customer - Diego: sold! pls deliver 2moro
+
+---
+
+[2026-03-22 16:50] Customer - Emma: need gaming keyboard urgent
+[2026-03-22 16:52] Support - James: mechanical or membrane?
+[2026-03-22 16:53] Customer - Emma: mechanical. RGB lights
+[2026-03-22 16:55] Support - James: 35k. can deliver today if u order now
+[2026-03-22 16:56] Customer - Emma: done. sending address
+
+---
+
+[2026-03-25 10:10] Customer - Wei: u guys accept USD?
+[2026-03-25 10:12] Support - Sarah: yes but rate might b higher
+[2026-03-25 10:13] Customer - Wei: ok np. need 4 USB hubs
+[2026-03-25 10:15] Support - Sarah: 6k each. total 24k ngn or $30 usd
+[2026-03-25 10:17] Customer - Wei: ill pay ngn. send details
+
+---
+
+[2026-03-28 13:30] Customer - Sophie: hi can i track my order?
+[2026-03-28 13:32] Support - Mike: send me order number
+[2026-03-28 13:33] Customer - Sophie: NX-88297 i think
+[2026-03-28 13:35] Support - Mike: shows out 4 delivery. should arrive 2day
+[2026-03-28 13:37] Customer - Sophie: ok thx 👍
+
+---
+
+[2026-04-02 09:00] Customer - Rajesh: morning. do u have webcams?
+[2026-04-02 09:02] Support - James: yes. HD or 4K?
+[2026-04-02 09:03] Customer - Rajesh: HD is fine. for zoom meetings
+[2026-04-02 09:05] Support - James: 28k. includes mic
+[2026-04-02 09:07] Customer - Rajesh: perfect. ill take 1
+
+---
+
+[2026-04-05 15:20] Customer - David: bro my package didnt arrive
+[2026-04-05 15:22] Support - Sarah: which order?
+[2026-04-05 15:23] Customer - David: the SSD. was supposed 2 come yesterday
+[2026-04-05 15:25] Support - Sarah: lemme check... shows delivered at 4pm
+[2026-04-05 15:27] Customer - David: no way! ill check with security
+
+---
+
+[2026-04-08 11:45] Customer - Isabella: need wireless earbuds for gym
+[2026-04-08 11:47] Support - Mike: sweatproof?
+[2026-04-08 11:48] Customer - Isabella: yea. also good battery life
+[2026-04-08 11:50] Support - Mike: 25k. lasts 8hrs
+[2026-04-08 11:52] Customer - Isabella: sold. need 2 pairs actually
+
+---
+
+[2026-04-10 14:00] Customer - Mohammed: u deliver to dubai?
+[2026-04-10 14:02] Support - James: international shipping available
+[2026-04-10 14:03] Customer - Mohammed: how long it takes?
+[2026-04-10 14:05] Support - James: 5-7 business days usually
+[2026-04-10 14:07] Customer - Mohammed: ok. need smart home hub
+
+---
+
+[2026-04-12 10:30] Customer - Linh: hi do u have laptop bags?
+[2026-04-12 10:32] Support - Sarah: yes. what size laptop?
+[2026-04-12 10:33] Customer - Linh: 15 inch
+[2026-04-12 10:35] Support - Sarah: 18k. padded + waterproof
+[2026-04-12 10:37] Customer - Linh: nice. ill take 1
+
+---
+
+[2026-04-18 16:15] Customer - Ana: the tracker i got is faulty
+[2026-04-18 16:17] Support - Mike: whats wrong with it?
+[2026-04-18 16:18] Customer - Ana: wont sync with phone
+[2026-04-18 16:20] Support - Mike: tried resetting?
+[2026-04-18 16:22] Customer - Ana: yes still not working
+[2026-04-18 16:24] Support - Mike: ok send it back. well replace
+
+---
+
+[2026-04-23 09:50] Customer - William: u guys have gaming mice?
+[2026-04-23 09:52] Support - James: yea. wired or wireless?
+[2026-04-23 09:53] Customer - William: wireless. high dpi
+[2026-04-23 09:55] Support - James: 28k. 16000 dpi
+[2026-04-23 09:57] Customer - William: perfect. ordering now
+
+---
+
+[2026-04-25 13:10] Customer - Yuki: can i cancel my order?
+[2026-04-25 13:12] Support - Sarah: which one?
+[2026-04-25 13:13] Customer - Yuki: the headphones. NX-88307
+[2026-04-25 13:15] Support - Sarah: already shipped sorry
+[2026-04-25 13:17] Customer - Yuki: ok ill refuse delivery then
+
+---
+
+[2026-04-28 11:00] Customer - Hans: invoice amount wrong
+[2026-04-28 11:02] Support - Mike: send screenshot
+[2026-04-28 11:03] Customer - Hans: shows 79k but should b 69k
+[2026-04-28 11:05] Support - Mike: ill check and get back 2 u
+[2026-04-28 11:07] Customer - Hans: ok thanks
+
+---
+
+[2026-05-02 14:40] Customer - Jennifer: drone still available?
+[2026-05-02 14:42] Support - James: yes. with camera
+[2026-05-02 14:43] Customer - Jennifer: how much?
+[2026-05-02 14:45] Support - James: 125k. includes 2 batteries
+[2026-05-02 14:47] Customer - Jennifer: deal. sending payment now
+
+---
+
+[2026-05-05 10:20] Customer - Olivia: e-reader in stock?
+[2026-05-05 10:22] Support - Sarah: yes. 7inch or 10inch?
+[2026-05-05 10:23] Customer - Olivia: 7 is fine
+[2026-05-05 10:25] Support - Sarah: 35k. includes cover
+[2026-05-05 10:27] Customer - Olivia: great. ordering 1
+
+---
+
+[2026-05-07 15:55] Customer - Piotr: bluetooth adapters available?
+[2026-05-07 15:57] Support - Mike: yea. how many u need?
+[2026-05-07 15:58] Customer - Piotr: 5 pieces
+[2026-05-07 16:00] Support - Mike: 3k each. total 15k
+[2026-05-07 16:02] Customer - Piotr: ok sending address
+
+---
+
+[2026-05-09 12:30] Customer - Fatima: my tablet screen cracked on arrival 😤
+[2026-05-09 12:32] Support - James: sorry! send pics pls
+[2026-05-09 12:33] Customer - Fatima: sending now
+[2026-05-09 12:35] Support - James: well send replacement 2moro
+[2026-05-09 12:37] Customer - Fatima: ok thanks
+
+---
+
+[2026-05-11 09:15] Customer - Lucas: power bank 20000mah available?
+[2026-05-11 09:17] Support - Sarah: yes. fast charging
+[2026-05-11 09:18] Customer - Lucas: price?
+[2026-05-11 09:20] Support - Sarah: 22k
+[2026-05-11 09:22] Customer - Lucas: ill take 1. delivery to rio

@@ -1,0 +1,272 @@
+INVOICE: NX-88291
+Cust0mer: Michael J. Anderson
+Date: 12-03-2026
+Items:
+ - Bluetooth Speaker x2 @ 15,000
+ - USB Cable x5 @ 1,200
+TOTAL: 33,000
+ADDR: 45B Maple Avenue, Brooklyn NY
+
+---
+
+INVOICE NX-88292
+Customer: sarah CHEN
+Date: 2026-03-15
+Items:
+- Wireless Mouse x1 @ 8500
+- Laptop Stand @ 12,O00 (OCR error: O instead of 0)
+TOTAL: 19,500
+Address: 78 Richmond St, Toronto ON
+
+---
+
+INV0ICE: NX-88293
+Customer Name: RODRIGUEZ, Maria
+Date: March 18th 2026
+Items:
+ - Smart Watch x1 @ 45000
+ - Screen Prot3ctor x2 @ 2500
+TOTAL: 50,000
+ADDR: incomplete - just "Downtown"
+
+---
+
+INVOICE: NX-88294
+Cust: James O'Brien
+Date: 20/03/2026
+Items:
+- Bluetooth Headphones x3 @ 22,000
+- Phone Case x2 @ 3,500
+TOTAL: 73,000
+ADDRESS: 156 Queen Street, Auckland
+
+---
+
+INVOICE NX88295
+Customer: wei.zhang@email.com
+Date: 2026-03-22
+Items:
+ - Gaming Keyboard x1 @ 35,000
+ - Mouse Pad @ 4,500
+TOTAL: 39,500
+Addr: 23 Orchard Road Singapore
+
+---
+
+INVOICE: NX-88296
+Customer: LOPEZ Carlos
+Date: 25-03-2026
+Items:
+- USB Hub x4 @ 6,000
+- HDMI Cable x2 @ 3,500
+TOTAL: 31,000
+Address: Calle 45 #12-34, Bogotá
+
+---
+
+INV: NX-88297
+Cust0mer: Emma Thompson
+Date: 2026/03/28
+Items:
+ - Portable Charger x2 @ 18,000
+ - Lightning Cable x3 @ 2,200
+TOTAL: 42,600
+ADDR: 89 King William St, London
+
+---
+
+INVOICE NX-88298
+Customer: PATEL Rajesh
+Date: 30-03-2026
+Items:
+- Webcam HD x1 @ 28,000
+- Mic Headset @ 15,500
+TOTAL: 43,500
+Address: Flat 12B, Mumbai 400001
+
+---
+
+INVOICE: NX-88299
+Customer: Sophie Dubois
+Date: April 2, 2026
+Items:
+ - Tablet Case x1 @ 8,000
+ - Stylus Pen x2 @ 5,500
+TOTAL: 19,00O (OCR error on last zero)
+ADDR: 34 Rue de la Paix Paris
+
+---
+
+INV0ICE NX-883OO (OCR: O instead of 0)
+Customer: David Kim
+Date: 2026-04-05
+Items:
+- External SSD 1TB x1 @ 55,000
+- USB-C Adapter x3 @ 4,000
+TOTAL: 67,000
+Address: 901 Gangnam-gu Seoul
+
+---
+
+INVOICE: NX-88301
+Cust: Isabella ROSSI
+Date: 08/04/2026
+Items:
+ - Wireless Earbuds x2 @ 25,000
+ - Charging Case @ 8,000
+TOTAL: 58,000
+ADDR: Via Roma 45, Milano
+
+---
+
+INVOICE NX-88302
+Customer: Mohammed Al-Farsi
+Date: 2026-04-10
+Items:
+- Smart Home Hub x1 @ 42,000
+- LED Bulbs x6 @ 3,000
+TOTAL: 60,000
+Address: Sheikh Zayed Road Dubai
+
+---
+
+INV: NX-88303
+Customer: NGUYEN Linh
+Date: 12-04-2026
+Items:
+ - Laptop Bag x1 @ 18,000
+ - Cable 0rganizer x4 @ 2,500 (OCR: 0 instead of O)
+TOTAL: 28,000
+Addr: District 1, Ho Chi Minh City
+
+---
+
+INVOICE: NX-88304
+Cust0mer: александр петров (Cyrillic characters)
+Date: 2026/04/15
+Items:
+- Mechanical Keyboard x1 @ 48,000
+- Wrist Rest @ 6,500
+TOTAL: 54,500
+ADDRESS: Moscow, Russia
+
+---
+
+INVOICE NX-88305
+Customer: Ana Silva
+Date: April 18 2026
+Items:
+ - Fitness Tracker x2 @ 32,000
+ - Replacement Bands x4 @ 3,500
+TOTAL: 78,000
+ADDR: Av. Paulista 1000, São Paulo
+
+---
+
+INV: NX-88306
+Customer: JACKSON William
+Date: 20-04-2026
+Items:
+- Gaming Mouse x1 @ 28,000
+- RGB Mousepad @ 12,000
+TOTAL: 40,000
+Address: 567 Market St San Francisco CA
+
+---
+
+INVOICE NX-88307
+Cust: yuki.tanaka@mail.jp
+Date: 2026-04-23
+Items:
+ - Noise Canceling Headphones x1 @ 65,000
+ - Carry Case @ 8,500
+TOTAL: 73,500
+ADDR: Shibuya Tokyo
+
+---
+
+INVOICE: NX-88308
+Customer: MUELLER Hans
+Date: 25/04/2026
+Items:
+- Portable Speaker x3 @ 22,000
+- AUX Cable x2 @ 1,500
+TOTAL: 69,000
+Address: Hauptstraße 78, Berlin
+
+---
+
+INV0ICE NX-88309
+Customer: Jennifer Lee
+Date: 2026-04-28
+Items:
+ - Drone Camera x1 @ 125,000
+ - Extra Battery x2 @ 15,000
+TOTAL: 155,000
+ADDR: 234 Collins St Melbourne
+
+---
+
+INVOICE: NX-88310
+Cust0mer: GARCIA Diego
+Date: 30-04-2026
+Items:
+- Smart Doorbell x1 @ 38,000
+- Memory Card 128GB x2 @ 8,000
+TOTAL: 54,000
+Address: Insurgentes Sur CDMX
+
+---
+
+INVOICE NX-88311
+Customer: olivia martinez
+Date: May 2nd 2026
+Items:
+ - E-Reader x1 @ 35,000
+ - Prot3ctive Cover @ 5,500 (OCR error)
+TOTAL: 40,500
+ADDR: 890 Main Street Vancouver BC
+
+---
+
+INV: NX-88312
+Customer: KOWALSKI Piotr
+Date: 2026-05-05
+Items:
+- Bluetooth Adapter x5 @ 3,000
+- Extension Cord x2 @ 4,500
+TOTAL: 24,000
+Address: ul. Marszałkowska 45 Warszawa
+
+---
+
+INVOICE NX-88313
+Cust: Fatima Abbas
+Date: 07/05/2026
+Items:
+ - Tablet 10inch x1 @ 95,000
+ - Screen Protector @ 3,500
+TOTAL: 98,500
+ADDR: Al Wasl Road, Dubai
+
+---
+
+INVOICE: NX-88314
+Customer: lucas.oliveira@email.br
+Date: 2026-05-09
+Items:
+- Wireless Charger x2 @ 16,000
+- Power Bank 20000mAh x1 @ 22,000
+TOTAL: 54,000
+Address: Rio de Janeiro RJ Brazil
+
+---
+
+INVOICE NX-88315
+Customer: SVENSSON Erik
+Date: 11-05-2026
+Items:
+ - Laptop Cooling Pad x1 @ 12,000
+ - USB Fan x3 @ 2,500
+TOTAL: 19,500
+ADDR: Storgatan 12 Stockholm

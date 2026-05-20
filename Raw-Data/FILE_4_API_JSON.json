@@ -1,0 +1,258 @@
+[
+  {
+    "order_id": "NX10021",
+    "customerName": "Michael Anderson",
+    "items": [
+      {"product": "Bluetooth Speaker", "qty": 2, "price": 15000}
+    ],
+    "status": "delivered",
+    "delivery": {
+      "date": "2026-03-14",
+      "agent": "Carlos"
+    }
+  },
+  {
+    "order_id": "NX10022",
+    "customer_name": "Sarah Chen",
+    "items": [
+      {"product": "Wireless Mouse", "qty": 1, "price": 8500},
+      {"product": "Laptop Stand", "qty": 1, "price": 12000}
+    ],
+    "status": "delivered",
+    "delivery_date": "2026-03-17"
+  },
+  {
+    "order_id": "NX10023",
+    "customerName": "Maria Rodriguez",
+    "items": [
+      {"product": "Smart Watch", "qty": 1, "price": 45000}
+    ],
+    "status": "pending",
+    "refunded": true
+  },
+  {
+    "order_id": "NX10024",
+    "customer_name": "James O'Brien",
+    "items": [
+      {"product": "Bluetooth Headphones", "qty": 3, "price": 22000}
+    ],
+    "status": "delivered",
+    "delivery": {
+      "date": "2026-03-22",
+      "agent": "Ahmed"
+    }
+  },
+  {
+    "order_id": "NX10025",
+    "customerName": "Wei Zhang",
+    "items": [
+      {"product": "Gaming Keyboard", "qty": 1, "price": 35000},
+      {"product": "Mouse Pad", "qty": 1, "price": 4500}
+    ],
+    "status": "shipped",
+    "tracking_id": "NX-DEL-7782"
+  },
+  {
+    "order_id": "NX10026",
+    "customer_name": "Carlos Lopez",
+    "items": [
+      {"product": "USB Hub", "qty": 4, "price": 6000}
+    ],
+    "status": "delivered",
+    "delivery": {
+      "date": "2026-03-27"
+    }
+  },
+  {
+    "order_id": "NX10027",
+    "customerName": "Emma Thompson",
+    "items": [
+      {"product": "Portable Charger", "qty": 2, "price": 18000}
+    ],
+    "status": "delivered",
+    "delivery": {
+      "date": "2026-03-30",
+      "agent": "Marcus"
+    }
+  },
+  {
+    "order_id": "NX10028",
+    "customer_name": "Rajesh Patel",
+    "items": [
+      {"product": "Webcam HD", "qty": 1, "price": 28000},
+      {"product": "Mic Headset", "qty": 1, "price": 15500}
+    ],
+    "status": "delivered"
+  },
+  {
+    "order_id": "NX10029",
+    "customerName": "Sophie Dubois",
+    "items": [
+      {"product": "Tablet Case", "qty": 1, "price": 8000}
+    ],
+    "status": "shipped",
+    "delivery": {
+      "agent": "Yuki"
+    }
+  },
+  {
+    "order_id": "NX10030",
+    "customer_name": "David Kim",
+    "items": [
+      {"product": "External SSD 1TB", "qty": 1, "price": 55000}
+    ],
+    "status": "delivered",
+    "delivery": {
+      "date": "2026-04-06",
+      "agent": "Sofia"
+    },
+    "disputed": true
+  },
+  {
+    "order_id": "NX10031",
+    "customerName": "Isabella Rossi",
+    "items": [
+      {"product": "Wireless Earbuds", "qty": 2, "price": 25000}
+    ],
+    "status": "pending"
+  },
+  {
+    "order_id": "NX10032",
+    "customer_name": "Mohammed Al-Farsi",
+    "items": [
+      {"product": "Smart Home Hub", "qty": 1, "price": 42000},
+      {"product": "LED Bulbs", "qty": 6, "price": 3000}
+    ],
+    "status": "delivered",
+    "delivery": {
+      "date": "2026-04-12",
+      "agent": "Hassan"
+    }
+  },
+  {
+    "order_id": "NX10033",
+    "customerName": "Linh Nguyen",
+    "items": [
+      {"product": "Laptop Bag", "qty": 1, "price": 18000}
+    ],
+    "status": "shipped",
+    "tracking_id": "NX-DEL-7790"
+  },
+  {
+    "order_id": "NX10034",
+    "customer_name": "Alexander Petrov",
+    "items": [
+      {"product": "Mechanical Keyboard", "qty": 1, "price": 48000}
+    ],
+    "status": "delivered",
+    "delivery_date": "2026-04-17"
+  },
+  {
+    "order_id": "NX10035",
+    "customerName": "Ana Silva",
+    "items": [
+      {"product": "Fitness Tracker", "qty": 2, "price": 32000}
+    ],
+    "status": "pending",
+    "refunded": false
+  },
+  {
+    "order_id": "NX10021",
+    "customer_name": "William Jackson",
+    "items": [
+      {"product": "Gaming Mouse", "qty": 1, "price": 28000}
+    ],
+    "status": "delivered",
+    "delivery": {
+      "date": "2026-04-22",
+      "agent": "Diego"
+    }
+  },
+  {
+    "order_id": "NX10037",
+    "customerName": "Yuki Tanaka",
+    "items": [
+      {"product": "Noise Canceling Headphones", "qty": 1, "price": 65000}
+    ],
+    "status": "cancelled"
+  },
+  {
+    "order_id": "NX10038",
+    "customer_name": "Hans Mueller",
+    "items": [
+      {"product": "Portable Speaker", "qty": 3, "price": 22000}
+    ],
+    "status": "delivered",
+    "delivery": {
+      "date": "2026-04-27"
+    }
+  },
+  {
+    "order_id": "NX10039",
+    "customerName": "Jennifer Lee",
+    "items": [
+      {"product": "Drone Camera", "qty": 1, "price": 125000},
+      {"product": "Extra Battery", "qty": 2, "price": 15000}
+    ],
+    "status": "shipped",
+    "tracking_id": "NX-DEL-7801"
+  },
+  {
+    "order_id": "NX10040",
+    "customer_name": "Diego Garcia",
+    "items": [
+      {"product": "Smart Doorbell", "qty": 1, "price": 38000}
+    ],
+    "status": "delivered",
+    "delivery": {
+      "date": "2026-05-02",
+      "agent": "Paulo"
+    }
+  },
+  {
+    "order_id": "NX10041",
+    "customerName": "Olivia Martinez",
+    "items": [
+      {"product": "E-Reader", "qty": 1, "price": 35000}
+    ],
+    "status": "delivered"
+  },
+  {
+    "order_id": "NX10042",
+    "customer_name": "Piotr Kowalski",
+    "items": [
+      {"product": "Bluetooth Adapter", "qty": 5, "price": 3000}
+    ],
+    "status": "shipped"
+  },
+  {
+    "order_id": "NX10043",
+    "customerName": "Fatima Abbas",
+    "items": [
+      {"product": "Tablet 10inch", "qty": 1, "price": 95000}
+    ],
+    "status": "pending",
+    "issue": "damaged_on_arrival"
+  },
+  {
+    "order_id": "NX10044",
+    "customer_name": "Lucas Oliveira",
+    "items": [
+      {"product": "Wireless Charger", "qty": 2, "price": 16000},
+      {"product": "Power Bank 20000mAh", "qty": 1, "price": 22000}
+    ],
+    "status": "delivered",
+    "delivery": {
+      "date": "2026-05-11",
+      "agent": "Ricardo"
+    }
+  },
+  {
+    "order_id": "NX10045",
+    "customerName": "Erik Svensson",
+    "items": [
+      {"product": "Laptop Cooling Pad", "qty": 1, "price": 12000}
+    ],
+    "status": "pending"
+  }
+]
